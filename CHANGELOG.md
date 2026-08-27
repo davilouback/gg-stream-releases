@@ -1,5 +1,10 @@
 # GG Stream alpha
 
+## 0.6.0-alpha.5
+
+- Aplicação portable corrigida com hash incremental compatível com Windows
+  PowerShell, log persistente, rollback e relaunch automático.
+
 ## 0.6.0-alpha.4
 
 - Router definitivo: jogos em Automático usam somente OBS Game Capture.

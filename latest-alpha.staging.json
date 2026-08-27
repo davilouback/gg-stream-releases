@@ -1,8 +1,8 @@
 {
   "channel": "alpha",
-  "version": "0.6.0-alpha.4",
-  "downloadUrl": "https://gg-stream-signaling.gg-stream-signaling-cloudflare.workers.dev/updates/download/GG-Stream-Portable-0.6.0-alpha.4.exe",
-  "size": 132221486,
-  "sha256": "05e205cc6e436a5aaf324f94a1c5069d7f2d27bca569d96999bf7649edffdf12",
-  "releaseNotes": "Router explícito: jogos usam OBS Game Capture; Window/Monitor Capture apenas quando selecionados."
+  "version": "0.6.0-alpha.5",
+  "downloadUrl": "https://gg-stream-signaling.gg-stream-signaling-cloudflare.workers.dev/updates/download/GG-Stream-Portable-0.6.0-alpha.5.exe",
+  "size": 132221262,
+  "sha256": "3ce415ea0c4fd47479a997499bf5ce33bb19c4145ff92afbe02d7b627babe871",
+  "releaseNotes": "Aplicação portable corrigida: substituição, validação final e relaunch automático com diagnóstico persistente."
 }
