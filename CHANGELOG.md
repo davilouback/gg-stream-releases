@@ -1,5 +1,12 @@
 # GG Stream alpha
 
+## 0.6.0-alpha.4
+
+- Router definitivo: jogos em Automático usam somente OBS Game Capture.
+- Window Capture (WGC) e Monitor Capture só são usados quando selecionados
+  explicitamente.
+- Backend ativo passou a aparecer nos stats principais da transmissão.
+
 ## 0.6.0-alpha.3
 
 - Captura explícita de monitor trata 30/60/120/144/240 FPS como alvo e inicia
