@@ -1,7 +1,8 @@
 {
-  "version": "0.6.0-alpha.2",
-  "downloadUrl": "https://gg-stream-signaling.gg-stream-signaling-cloudflare.workers.dev/updates/download/GG-Stream-Portable-0.6.0-alpha.2.exe",
-  "size": 132220841,
-  "sha256": "0cec3e7cf7511f5e886b817bce6becb23db1fea46e56749ca3b2f127c857cded",
-  "releaseNotes": "Atualização controlada do canal alpha; nenhuma alteração no pipeline de mídia."
+  "channel": "alpha",
+  "version": "0.6.0-alpha.3",
+  "downloadUrl": "https://gg-stream-signaling.gg-stream-signaling-cloudflare.workers.dev/updates/download/GG-Stream-Portable-0.6.0-alpha.3.exe",
+  "size": 132220344,
+  "sha256": "92329e5ed0885978214fa066cd3ad3efece2d11840c30919dd492813a1330c09",
+  "releaseNotes": "Correções de captura explícita de monitor e orientação segura para Counter-Strike 2."
 }
